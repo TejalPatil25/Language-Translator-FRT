@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'DemoAzureLanguageTranslator'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9CAEE491B91E4951816D6D1E61986DB6 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_76BB834683EA41CAAA20394D6B805937 }}
           package: .
